@@ -1,5 +1,5 @@
 {
-  "app": "python app.py",
+  "app": ".venv\\Scripts\\python.exe app.py",
   "watch": {
     "include": [
       "**"
